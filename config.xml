@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.pgb.brewapp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+	<name>Memo</name>
+	<description>
+		Tracks memos.
+	</description>
+
+	<author email="seymourbutts@phonegap.com" href="http://phonegap.com">
+	   Linux Journal
+	</author>
+
+	<preference name="phonegap-version" value="cli-6.0.0" />
+</widget>
+
