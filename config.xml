@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.pgb.brewapp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-	<name>Memo</name>
+	<name>phoneMemo</name>
 	<description>
-		Tracks memos.
+		create and edit memos.
 	</description>
 
 	<author email="seymourbutts@phonegap.com" href="http://phonegap.com">
